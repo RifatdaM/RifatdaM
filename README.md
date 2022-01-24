@@ -8,7 +8,7 @@ ___
 <br/>
 
 - 🤩 I'm currently working as a Frontend developer and Android App Developer
-- 👨‍💻 2021 Goal: Learn Flutter/Dart and Python.
+- 👨‍💻 2022 Goal: Learn React, React native and Python.
 - 🌌 Fun fact: Huge MCU fan. Love Friends & How I met your mother. love to draw.
 
 ## Connect with me:
