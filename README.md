@@ -11,7 +11,7 @@ Completed my Computer Science and Engineering degree from IUBAT - International 
 * ✉️  You can contact me at [rifat.hasan.rakib@gmail.com](mailto:rifat.hasan.rakib@gmail.com)
 * 🚀  I'm currently working on [Dtech Online Limited](http://dtechonline.net/)
 * 🧠  I'm learning Next JS, Flutter, Python(ML)
-* 🤝  I'm open to collaborating on UI/UX related work or React/Next base priject
+* 🤝  I'm open to collaborating on UI/UX related work or React/Next.js-based project
 * ⚡  I'm Batman
 
 ### Skills
