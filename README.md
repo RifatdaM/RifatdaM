@@ -1,37 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rakibul Hasan
-=====================================================================================================================================
+<div align="center">
 
-Frontend Developer and UI/UX Designer
--------------------------------------
+<p><code>rifatdam@github ~ $ ./maintainer.sh</code></p>
 
-Completed my Computer Science and Engineering degree from IUBAT - International University of Business Agriculture and Technology, Bangladesh. Working as a Web developer at Dtech Online Limited. Mostly
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Rakibul Hasan animated maintainer system scan" />
+</picture>
+</p>
+</div>
 
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Rakibul Hasan](http://portfolio-rhr.vercel.app/)
-* ✉️  You can contact me at [rifat.hasan.rakib@gmail.com](mailto:rifat.hasan.rakib@gmail.com)
-* 🚀  I'm currently working on [Dtech Online Limited](http://dtechonline.net/)
-* 🧠  I'm learning Next JS, Flutter, Python(ML)
-* 🤝  I'm open to collaborating on UI/UX related work or React/Next.js-based project
-* ⚡  I'm Batman
+<h2>Why I build in public</h2>
 
-### Skills
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>CSS</code> · <code>JavaScript</code> · <code>HTML</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>44 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>960 contributions · 224 active days</p></td>
+</tr>
+</table>
 
+<p>Computer Science and Engineering student. Who love to code and love learn the code. This Is my Playground of learning and innovation.</p>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<h2>Open-source toolbox</h2>
+
+<p><code>rifatdam@github ~ $ toolbox --list</code></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Rakibul Hasan open-source technology toolbox" />
+</picture>
 </p>
 
+<table width="100%">
+<tr>
+<td width="17%" align="center"><strong>CSS</strong><br /><sub>54%</sub></td>
+<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>25%</sub></td>
+<td width="17%" align="center"><strong>HTML</strong><br /><sub>15%</sub></td>
+<td width="17%" align="center"><strong>Python</strong><br /><sub>3%</sub></td>
+<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>2%</sub></td>
+<td width="17%" align="center"><strong>Jupyter Notebook</strong><br /><sub>1%</sub></td>
+</tr>
+</table>
 
-### Socials
+<h2>Repositories worth exploring</h2>
 
-<p align="left"> <a href="https://www.behance.com/rifatdam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/rifatdam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/RifatdaM" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/rakibrifat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/rifatdam" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@rakibrifat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&repos=rifatdam%2Fento-ecommerce%2Crifatdam%2Fhulu-clone%2Crifatdam%2Fbangli_ocr%2Crifatdam%2Fcocktail-karma&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&repos=rifatdam%2Fento-ecommerce%2Crifatdam%2Fhulu-clone%2Crifatdam%2Fbangli_ocr%2Crifatdam%2Fcocktail-karma&v=oss-projects-1&mode=dark" width="860" alt="Rakibul Hasan maintainer repositories" />
+</picture>
+</p>
 
-### Badges
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/RifatdaM/hulu-clone">hulu-clone</a></h3><p>A public project looking for its next contributor.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/RifatdaM/bangli_ocr">bangli_ocr</a></h3><p>A public project looking for its next contributor.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/RifatdaM/cocktail-karma">cocktail-karma</a></h3><p>2nd React based website. Using CocktailDB API</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-<b>My GitHub Stats</b>
+<h2>Contribution activity</h2>
 
-<a href="http://www.github.com/RifatdaM"><img src="https://github-readme-stats.vercel.app/api?username=RifatdaM&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RifatdaM's GitHub stats" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Rakibul Hasan open-source signal" />
+</picture>
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RifatdaM&theme=whatsapp-dark2&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CSat&card_width=494)](https://git.io/streak-stats)
+<h2>Contribution trail</h2>
 
-<a href="https://github.com/RifatdaM" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifatdaM&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Rakibul Hasan contribution trail" />
+</picture>
+</p>
+
+<hr />
+
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=rifatdam&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F39544817%3Fu%3Dea861bd7705617a080e6a5b43f871377605263d2%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Rakibul Hasan community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/rifatdam">GitHub</a> &nbsp;·&nbsp; <a href="https://portfolio-rhr.vercel.app/">Website</a></p>
+<p align="center"><sub>Rakibul Hasan · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
